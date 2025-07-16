@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 1daaf90cd7569294da23f67deb7f45b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9073184253456148055
+    second: Star Group rbg_0
+  - first:
+      213: 9034601803580998976
+    second: Star Group rbg_1
+  - first:
+      213: 3072642529882440487
+    second: Star Group rbg_2
+  - first:
+      213: 571282929427059251
+    second: Star Group rbg_3
+  - first:
+      213: 9039018925563896125
+    second: Star Group rbg_4
+  - first:
+      213: -2714014980919936604
+    second: Star Group rbg_5
+  - first:
+      213: -4104106259628418278
+    second: Star Group rbg_6
+  - first:
+      213: -3283794521418897807
+    second: Star Group rbg_7
+  - first:
+      213: -654890603789568086
+    second: Star Group rbg_8
+  - first:
+      213: 1499010933744334933
+    second: Star Group rbg_9
+  - first:
+      213: 8560739700668568962
+    second: Star Group rbg_10
+  - first:
+      213: 8915041880432173742
+    second: Star Group rbg_11
+  - first:
+      213: -1864948188085178636
+    second: Star Group rbg_12
+  - first:
+      213: 3901982165416877189
+    second: Star Group rbg_13
+  - first:
+      213: -1105757415147627418
+    second: Star Group rbg_14
+  - first:
+      213: -2392595003048970697
+    second: Star Group rbg_15
+  - first:
+      213: -6207953463258596826
+    second: Star Group rbg_16
+  - first:
+      213: -7615385294367669829
+    second: Star Group rbg_17
+  - first:
+      213: 7366840305861742399
+    second: Star Group rbg_18
+  - first:
+      213: -5993734170580564715
+    second: Star Group rbg_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Star Group rbg_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 742
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756ebe8b10d6aed70800000000000000
+      internalID: 9073184253456148055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 742
+        width: 165
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0458c85197a516d70800000000000000
+      internalID: 9034601803580998976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 742
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7238663f91834aa20800000000000000
+      internalID: 3072642529882440487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 741
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3329eba2cca9de700800000000000000
+      internalID: 571282929427059251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_4
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 741
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31e44072db017d70800000000000000
+      internalID: 9039018925563896125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 510
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9bd2b11c1e55ad0800000000000000
+      internalID: -2714014980919936604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 510
+        width: 143
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b1462f9194b07c0800000000000000
+      internalID: -4104106259628418278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_7
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 510
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176e373f74e9d62d0800000000000000
+      internalID: -3283794521418897807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 510
+        width: 174
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7b162377c59e6f0800000000000000
+      internalID: -654890603789568086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_9
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 512
+        width: 155
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558f14c808e8dc410800000000000000
+      internalID: 1499010933744334933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 278
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2851fe8a66bddc670800000000000000
+      internalID: 8560739700668568962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 278
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2e3e83b5798bb70800000000000000
+      internalID: 8915041880432173742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_12
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 279
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feacacf08f5e16e0800000000000000
+      internalID: -1864948188085178636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_13
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 279
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c15991b10a62630800000000000000
+      internalID: 3901982165416877189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_14
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 278
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c1f5e4d7f87a0f0800000000000000
+      internalID: -1105757415147627418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 171
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73634ef658bcbced0800000000000000
+      internalID: -2392595003048970697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 47
+        width: 170
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ab050673be8d9a0800000000000000
+      internalID: -6207953463258596826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 47
+        width: 170
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb14b7d3c67b05690800000000000000
+      internalID: -7615385294367669829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_18
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 47
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f4beb1a364c3660800000000000000
+      internalID: 7366840305861742399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Group rbg_19
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 47
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515cc6c278af1dca0800000000000000
+      internalID: -5993734170580564715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fa32af3c645c3ee42a2c9e049ffff462
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Star Group rbg_0: 9073184253456148055
+      Star Group rbg_1: 9034601803580998976
+      Star Group rbg_10: 8560739700668568962
+      Star Group rbg_11: 8915041880432173742
+      Star Group rbg_12: -1864948188085178636
+      Star Group rbg_13: 3901982165416877189
+      Star Group rbg_14: -1105757415147627418
+      Star Group rbg_15: -2392595003048970697
+      Star Group rbg_16: -6207953463258596826
+      Star Group rbg_17: -7615385294367669829
+      Star Group rbg_18: 7366840305861742399
+      Star Group rbg_19: -5993734170580564715
+      Star Group rbg_2: 3072642529882440487
+      Star Group rbg_3: 571282929427059251
+      Star Group rbg_4: 9039018925563896125
+      Star Group rbg_5: -2714014980919936604
+      Star Group rbg_6: -4104106259628418278
+      Star Group rbg_7: -3283794521418897807
+      Star Group rbg_8: -654890603789568086
+      Star Group rbg_9: 1499010933744334933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
